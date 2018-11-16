@@ -1,0 +1,1 @@
+include ':app', ':messengerclient', ':messengerservice', ':aidlservice', ':aidlclient', ':mvptest'
